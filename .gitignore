@@ -53,9 +53,13 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+yarn.lock
 
 # dotenv environment variables file
 .env
 
 .idea
 .idea/**/*
+coverage/
+dist/
+dist-test/
